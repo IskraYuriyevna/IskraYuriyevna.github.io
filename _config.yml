@@ -21,7 +21,7 @@
 title: 小喵的宫帐
 email: alexander1718318150@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  这里是小喵的宫帐，小喵自己的图书馆。  
+  这里是小喵的宫帐，也是小喵自己的图书馆。  
   部分内容可能拥有版权，请不要随意分享。
   
 baseurl: "" # the subpath of your site, e.g. /blog
